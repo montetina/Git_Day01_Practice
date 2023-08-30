@@ -1,0 +1,5 @@
+mote tc
+
+smoke test
+
+regression
